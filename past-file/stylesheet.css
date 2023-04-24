@@ -1,0 +1,48 @@
+body {
+    background-image: url(./IMGS/BG.jpg);
+
+}
+.IMAGELOGO {
+    float: left;
+    padding-left: 75px;
+    padding-top: 25px;
+}
+.navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 140px;
+    padding-top: 50px;
+    font-size: 35px;
+    color: bisque;
+
+}
+.navbar a:visited {
+    color: bisque;
+    background-color: transparent;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+.navbar a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+.TEXT {
+    font-size: 30px;
+    padding-top: 5px;
+    float: right;
+    color: bisque;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.FAQS {
+    font-size: 30px;
+    padding-top: 175px;
+    float: float;
+    color: bisque;
+    margin-left: 115px;
+    margin-right: 20px;
+}
